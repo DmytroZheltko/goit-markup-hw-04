@@ -471,7 +471,7 @@ a {
   list-style: none;
 }
 
-.soc-icon {
+.soc-icon-footer {
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -482,7 +482,7 @@ a {
   transition: background-color 2500ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.soc-icon a {
+.soc-icon-footer a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -491,7 +491,7 @@ a {
   border-radius: 50%;
 }
 
-.soc-icon:hover,
-.soc-icon:focus {
+.soc-icon-footer:hover,
+.soc-icon-footer:focus {
   background-color: #31d0aa;
 }
